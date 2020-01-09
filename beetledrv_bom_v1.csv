@@ -1,0 +1,17 @@
+Description,Part/parts,Mfr Part #,Digikey Part #,Qty/Board,Buy,Link
+Motor Drive IC,U1,DRV8848,296-38514-5-ND,1,10,https://www.digikey.com/product-detail/en/DRV8848PWP/296-38514-5-ND/5029929/?itemSeq=306299029
+.27 ohm current shunt,"R1, R2",ERJ-14BQFR27U,P17276CT-ND,2,20,https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-14BQFR27U/P17276CT-ND/5647760
+0.3 ohm current shunt,"R1, R2",RCWE1210R300FKEA,RCWE.3FCT-ND,0,6,https://www.digikey.com/product-detail/en/vishay-dale/RCWE1210R300FKEA/RCWE.3FCT-ND/2276737
+0.5 ohm current shunt,"R1, R2",RCWE2512R500FKEA,541-4403-1-ND,0,6,https://www.digikey.com/product-detail/en/vishay-dale/RCWE2512R500FKEA/541-4403-1-ND/8581892
+0.1uf 50v 0603 cap,"C1, C4, C5, C8, C9",CL10B104KB8NNNC,1276-1000-1-ND,6,100,https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10B104KB8NNNC/1276-1000-1-ND/3889086
+22uf 25v 1210 cap,"C2, C11",CL32B226KAJNFNE,1276-3391-1-ND,2,25,https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL32B226KAJNFNE/1276-3391-1-ND/3891477
+2.2uF 16v 0603 cap,"C3, C6, C7",EMK107BB7225MA-T,587-4864-1-ND,3,40,https://www.digikey.com/product-detail/en/taiyo-yuden/EMK107BB7225MA-T/587-4864-1-ND/6563707
+5v linear reg,VR1,UA78M05CDCYR,296-12290-1-ND,1,10,https://www.digikey.com/product-detail/en/texas-instruments/UA78M05CDCYR/296-12290-1-ND/416584
+5vTo3.3v reg,VR2,TLV73333PDBVR,296-40673-1-ND,1,10,https://www.digikey.com/product-detail/en/texas-instruments/TLV73333PDBVR/296-40673-1-ND/5178550
+4.7u 6.3v 0603 cap,C10,CL10A475KQ8NNNC,CL10A475KQ8NNNC,1,100,https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL10A475KQ8NNNC/1276-1045-1-ND/3889131
+Microcontroller,U2,STM32F303K8T6,497-15828-ND,1,10,https://www.digikey.com/products/en/integrated-circuits-ics/embedded-microcontrollers/685?k=STM32F303K8
+led 1206 2.1v green,D1,CMD15-21VGD/TR8,L62305CT-ND,1,15,https://www.digikey.com/product-detail/en/visual-communications-company-vcc/CMD15-21VGD-TR8/L62305CT-ND/254925
+300 ohm 0603 res,R3,ERJ-3EKF3000V,P300HCT-ND,1,15,https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-3EKF3000V/P300HCT-ND/1746756
+Prog Header RA 6pos,J3,SM06B-SRSS-TB(LF)(SN),455-1806-1-ND,1,12,https://www.digikey.com/product-detail/en/jst-sales-america-inc/SM06B-SRSS-TB-LF-SN/455-1806-1-ND/926877
+6pin jst cable assembly,,A06SR06SR30K152B,455-3015-ND,0,4,https://www.digikey.com/product-detail/en/jst-sales-america-inc/A06SR06SR30K152B/455-3015-ND/6009391
+3pin jst cable assembly,,A03SR03SR30K305B,455-3706-ND,0,1,https://www.digikey.com/product-detail/en/jst-sales-america-inc/A03SR03SR30K305B/455-3706-ND/6708515
